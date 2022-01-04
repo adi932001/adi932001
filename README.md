@@ -12,11 +12,11 @@
 <div align="center" >
 
 
-</p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/aditya-yadav-34a8861b0/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:yadavadityaanil@gmail.com)
-
+</p>
 <div align="center">
 
 ### GitHub Stats
@@ -31,5 +31,5 @@
  #### Profile Views
 ![visitors](https://gpvc.arturio.dev/adi932001)
 
-Leave a ⭐ from [here](https://github.com/adi932001/adi932001) if you like 😁
+Leave a ⭐ [here](https://github.com/adi932001/adi932001) if you like 😁
 </p>
