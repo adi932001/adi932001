@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**adi932001/adi932001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+* I'm **Aditya Yadav**🧑🏻‍🎓, currently embarking on my engineering journey from Pimpri Chinchwad College of Engineering, Akurdi, Pune🚀 <br/>
+* I am a **full-stack web developer & UI/UX enthusiast🎨** <br/>
+* Keen interest  ML domain🤖
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
+<div align="center" >
+id=100008148766679)
+
+</p>
+
+<div align="center">
+
+### GitHub Stats
+![Aditya Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=adi932001&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=onedark)
+
+
+<br/>
+
