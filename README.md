@@ -14,7 +14,7 @@
 <div align="center">
 
 ### GitHub Stats
-![Aditya Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=adi932001&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=onedark)
+![Aditya Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=adi932001&show_icons=true&theme=onedark)
 
 
 <br/>
