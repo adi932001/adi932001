@@ -21,3 +21,9 @@
 
 ### GitHub Contributions
 ![Aditya Yadav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=adi932001)
+
+ #### Profile Views
+![visitors](https://gpvc.arturio.dev/adi932001)
+
+Leave a ⭐ from [here](https://github.com/adi932001/adi932001) if you like 😁
+</p>
