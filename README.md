@@ -2,7 +2,7 @@
  # ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)Aditya Yadav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
  
-* I'm **Aditya Yadav**🧑🏻‍🎓, currently embarking on my engineering journey from Pimpri Chinchwad College of Engineering, Akurdi, Pune🚀 <br/>
+* I'm **Aditya Yadav**🧑🏻‍🎓, currently embarking on my engineering journey from Pimpri Chinchwad College of Engineering, Pune🚀 <br/>
 * I am a **full-stack web developer & UI/UX enthusiast🎨** <br/>
 * Keen interest  ML domain🤖
 
