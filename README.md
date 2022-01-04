@@ -3,9 +3,9 @@
  
  
 * I'm **Aditya Yadav**🧑🏻‍🎓, currently embarking on my engineering journey from Pimpri Chinchwad College of Engineering, Pune🚀 <br/>
-* Technical Team Member at **Team Automatons**
+* Technical Team Member at **@Team Automatons🤖**
 * I am a **full-stack web developer & UI/UX enthusiast🎨** <br/>
-* Keen interest  ML domain🤖
+* Keen interest  ML domain
 
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
