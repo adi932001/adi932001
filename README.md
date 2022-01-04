@@ -3,7 +3,7 @@
  
  
 * I'm **Aditya Yadav**🧑🏻‍🎓, currently embarking on my engineering journey from Pimpri Chinchwad College of Engineering, Pune🚀 <br/>
-* Technical Team Member at **@Team Automatons🤖**
+* Technical Team Member at **[Team Automatons](https://teamautomatons.in/)🤖**
 * I am a **full-stack web developer & UI/UX enthusiast🎨** <br/>
 * Keen interest  ML domain
 
