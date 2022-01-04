@@ -7,7 +7,7 @@
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <div align="center" >
-id=100008148766679)
+
 
 </p>
 
@@ -19,3 +19,5 @@ id=100008148766679)
 
 <br/>
 
+### GitHub Contributions
+![Aditya Yadav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=adi932001)
