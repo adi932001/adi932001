@@ -5,7 +5,7 @@
  
 * Technical Team Member at **[Team Automatons](https://teamautomatons.in/)🤖**
 * I am a **full-stack web developer & UI/UX enthusiast🎨** <br/>
-* Keen interest  ML domain
+
 
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
