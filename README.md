@@ -1,10 +1,10 @@
 
  # ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)Aditya Yadav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
+ UI/UX enthusiast🎨
  
  
 * Technical Team Member at **[Team Automatons](https://teamautomatons.in/)🤖**
-* I am a **full-stack web developer ** <br/>
+* I am a **full-stack web developer UI/UX enthusiast🎨** <br/>
 
 
 
