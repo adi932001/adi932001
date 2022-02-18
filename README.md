@@ -5,11 +5,8 @@
 * I am a full-stack web developer.<br/>
 
 
-
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <div align="center" >
-
-
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/aditya-yadav-34a8861b0/)
