@@ -4,7 +4,7 @@
  
  
 * Technical Team Member at **[Team Automatons](https://teamautomatons.in/)🤖**
-* I am a **full-stack web developer UI/UX enthusiast🎨** <br/>
+* I am a **full-stack web developer ** <br/>
 
 
 
