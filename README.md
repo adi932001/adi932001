@@ -1,9 +1,6 @@
 
  # ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)Aditya Yadav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
- 
-* I am a full-stack web developer.<br/>
-
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <div align="center" >
